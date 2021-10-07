@@ -45,7 +45,7 @@ This dataset has been processed, split into train and test, and it was used for 
 
 ### Accuracy
 
-![Accuracy](Experiment_Results/Combined%20Graphs/Accuracy.png)
+![Accuracy](Experiment_Results/Combined%20Graphs/Accuracy.jpeg)
 
 ### Turnaround Time for Execution
 ![Turn Around Time](Experiment_Results/TAT.jpeg)
