@@ -6,7 +6,7 @@ Dataset link: https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 This dataset has been processed, split into train and test, and it was used for training, testing, and comparison. Smote1.ipynb is to generate somte file for the dataset.
 
-## <ins>**Required Files:**</ins>
+## Required Files:
 #### Download dataset from below links
    [creditcard_train_SMOTE_1.csv](https://drive.google.com/file/d/1vEFjrA5I08dVPEslMVixJG0Kjl9bW44V/view?usp=sharing)
 
@@ -14,7 +14,7 @@ This dataset has been processed, split into train and test, and it was used for 
 
    [creditcard_train.csv](https://drive.google.com/file/d/1nnRE2v7J-zt5xyR9dy9QCwE1cShkDKH9/view?usp=sharing)
 
-## <ins>**How to perform Experiment**</ins>
+## How to perform Experiment
     Step 1: Download the dataset from the above links.
 
     Step 2: Open Fed_Split_Learning.ipynb. Run all the cells above "Federated Learning" section.
@@ -41,7 +41,7 @@ This dataset has been processed, split into train and test, and it was used for 
 
     Step 13: For all the combined result, run the "Graphs for combined results" sub-section of section "Graphs". This should be executed one time only to get ypur results. Make sure JSON files generated previously should be accessible to it.
 
-## <ins>**Results**</ins>
+## Results
 
 ### Accuracy
 
