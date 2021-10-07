@@ -2,7 +2,7 @@
 
 In this project, we show a comparison between Federated Learning and Split Learning for credit card fraud detection dataset.
 
-Dataset link: https://www.kaggle.com/mlg-ulb/creditcardfraud
+Dataset link: [kaggle.com/mlg-ulb/creditcardfraud](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
 This dataset has been processed, split into train and test, and it was used for training, testing, and comparison. Smote1.ipynb is to generate somte file for the dataset.
 
